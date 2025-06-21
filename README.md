@@ -1,4 +1,6 @@
-# LettaSearch MCP Tool Documentation
+# LettaSearch MCP Tool
+
+A system designed to enhance Letta agents with dynamic tool management capabilities. It allows agents to search for, attach, and detach tools based on natural language queries.
 
 ## Overview
 
@@ -396,6 +398,19 @@ The `find_attach_tools_v3.py` script can be used as a client to interact with th
 ```bash
 python find_attach_tools_v3.py --query "github repository" --agent_id "agent-33718e73-f85a-4cfd-a42b-d0a6feeaf5a5" --limit 5
 ```
+
+## Documentation
+
+For more detailed documentation, please see:
+
+- [Full Documentation](https://knowledge.oculair.ca/books/dynamic-tool-loading-for-letta/page/lettasearch-mcp-tool-documentation)
+- [MCP Tool Integration Technical Documentation](MCP_TOOL_INTEGRATION.md)
+
+## Project Management
+
+This project is managed using Plane. You can find the project at:
+
+- [LettaSearch MCP Tool Project](https://plane.oculair.ca/workspace/e7e61bde-61d2-4489-b1fd-1a162ceb833f/projects/a90ccb76-3ba3-41d5-a21e-1434618c8d73/issues)
 
 ## Conclusion
 
